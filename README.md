@@ -11,8 +11,8 @@
 </p>
 
 <p align="center">
-  <a href="amazon-clone-flame-sigma.vercel.app">
-    <img src="https://img.shields.io/badge/Live_Demo-Visit_Website-success?style=for-the-badge"/>
+  <a href="https://amazon-clone-flame-sigma.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Live_Demo-Visit_Website-success?style=for-the-badge"/>
   </a>
 </p>
 
