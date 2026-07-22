@@ -16,6 +16,10 @@
 
 ## 📌 About The Project
 
+<p align="center">
+  <img src="amazon-clone.png" alt="Amazon Clone Screenshot" width="100%">
+</p>
+
 This project is a responsive **Amazon Clone** created using **HTML and CSS**.
 
 The goal of this project was to recreate the core visual experience of Amazon's homepage while practicing modern web design concepts, layout techniques, navigation bars, product sections, and responsive UI styling.
